@@ -1,0 +1,46 @@
+#keyPad_btnPi,
+#keyPad_btnE,
+#keyPad_btnE,
+#keyPad_btnSinH,
+#keyPad_btnCosinH,
+#keyPad_btnTgH,
+#keyPad_EXP,
+#keyPad_btnOpen,
+#keyPad_btnClose,
+#keyPad_btnAsinH,
+#keyPad_btnAcosH,
+#keyPad_btnAtanH,
+#keyPad_btnLogBase2,
+#keyPad_btnLn,
+#keyPad_btnLg,
+#keyPad_btnPi,
+#keyPad_btnE,
+#keyPad_btnFact,
+#keyPad_btnYlogX,
+#keyPad_btnExp,
+#keyPad_btn10X,
+#keyPad_btnSin,
+#keyPad_btnCosin,
+#keyPad_btnTg,
+#keyPad_btnYpowX,
+#keyPad_btnCube,
+#keyPad_btnSquare,
+#keyPad_btnAsin,
+#keyPad_btnAcos,
+#keyPad_btnAtan,
+#keyPad_btnYrootX,
+#keyPad_btnCubeRoot,
+#keyPad_btnAbs,
+#keyPad_btnMod,
+.degree_radian
+{
+  display: none !important;
+}
+
+.calc_container {
+  width: 223px !important;
+}
+
+.keyPad_TextBox, .keyPad_TextBox1 {
+  width: 195px !important;
+}
